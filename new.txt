@@ -1,4 +1,6 @@
 My name is Jay.
 Today is 19th of August .
 I am learning Git and Github from scratch.
+Today is saturday.. and I am waiting for the installation team to arrive and install my new TV fast.
+I am editing the file again to see that the changes have been reflected or not.
 
