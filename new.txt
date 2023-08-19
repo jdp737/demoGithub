@@ -1,0 +1,4 @@
+My name is Jay.
+Today is 19th of August .
+I am learning Git and Github from scratch.
+
